@@ -1,4 +1,5 @@
 ###### author details: Taegyoon Kim, taegyoon@psu.edu
+###### environment: Python 3.7.6, macOS BigSur
 ###### purpose: This script is used to scrape replies written as a reply to legislators' handles.
 ###### last edit: 24 Jun 2021
 
@@ -22,11 +23,15 @@ access_token = ''
 access_token_secret = ''
 
 auth = tweepy.OAuthHandler(consumer_key, 
-                           consumer_secret)
+                           consumer_secret
+                           )
 auth.set_access_token(access_token, 
-                      access_token_secret)
-api = tweepy.API(auth, wait_on_rate_limit = True, 
-                 wait_on_rate_limit_notify = True)
+                      access_token_secret
+                      )
+api = tweepy.API(auth,
+                 wait_on_rate_limit = True, 
+                 wait_on_rate_limit_notify = True
+                 )
 
 
 
@@ -433,7 +438,9 @@ def timeline_to_dataframe(all_tweets):
 ##### load handle data
 
 path_handle = '/Users/taegyoon/Google Drive/diss_morality/data/handles/' 
-handles_117th = pd.read_csv(path_handle  + 'handles_117th.csv', index_col=0)
+handles_117th = pd.read_csv(path_handle  + 'handles_117th.csv',
+                            index_col=0
+                            )
 
 
 

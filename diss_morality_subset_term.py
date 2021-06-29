@@ -1,6 +1,7 @@
 ###### author details: Taegyoon Kim, taegyoon@psu.edu
+###### environment: Python 3.7.6, macOS BigSur
 ###### purpose: This script reads legislators' timeline tweets and subsets tweets published while in office based on the meta data for 117th Congress.
-###### last edit: 24 Jun 2021
+###### last edit: 14 Jun 2021
 
 
 
@@ -15,7 +16,7 @@ from datetime import datetime
 
 ##### load handle data
 
-path_handle = '/Users/taegyoon/Google Drive/diss_morality/data/handles/' 
+path_handle = '/Users/taegyoon/Google Drive/diss_morality/data/handles/' # https://github.com/taegyoon-kim/violent_political_rhetoric_morality/blob/main/data/handles_117th.csv
 handles_117th = pd.read_csv(path_handle  + 'handles_117th.csv', index_col=0)
 
 
@@ -63,7 +64,8 @@ for i in timeline_files:
 
   df_timeline_max = pd.read_csv(i, 
                                 index_col=0,
-                                lineterminator='\n')
+                                lineterminator='\n'
+                                )
 
   eastern = timezone('US/Eastern')
   utc = timezone('UTC')

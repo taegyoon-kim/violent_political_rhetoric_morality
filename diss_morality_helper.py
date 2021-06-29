@@ -1,7 +1,7 @@
 ###### author details: Taegyoon Kim, taegyoon@psu.edu
+###### environment: Python 3.7.6, macOS BigSur
 ###### purpose: This script is a helper that defines two functions: a) continuous collection of timeline beyond 200 (pagination) b) tranforming tweet objects into pd a dataframe
 ###### last edit: 24 Jun 2021
-
 
 
 ##### developer credentials
@@ -12,56 +12,58 @@ access_key = ""
 access_secret = ""
 
 
-
 ##### timeline scrape
 
 def get_all_tweets(screen_name):
     
-    #authorize twitter, initialize tweepy
+    '''authorize twitter, initialize tweepy'''
     import tweepy
-    auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-    auth.set_access_token(access_key, access_secret)
-    api = tweepy.API(auth, wait_on_rate_limit=True, 
-                     wait_on_rate_limit_notify=True)
+    auth = tweepy.OAuthHandler(consumer_key,
+                               consumer_secret
+                               )
+    auth.set_access_token(access_key,
+                          access_secret
+                          )
+    api = tweepy.API(auth,
+                     wait_on_rate_limit=True, 
+                     wait_on_rate_limit_notify=True
+                     )
     
-    #initialize a list to hold all the tweepy Tweets
+    '''initialize a list to hold all the tweepy Tweets'''
     alltweets = []  
     
-    #make initial request for most recent tweets (200 is the maximum allowed count)
+    '''make initial request for most recent tweets (200 is the maximum allowed count)'''
     new_tweets = api.user_timeline(screen_name = screen_name,
                                    count=200,
-                                   tweet_mode = "extended")
-                                   #exclude_replies=False)
+                                   #exclude_replies=False,
+                                   tweet_mode = "extended"
+                                   )
     
-    #save most recent tweets
+    '''save most recent tweets'''
     alltweets.extend(new_tweets)
     
-    #save the id of the oldest tweet less one
+    '''save the id of the oldest tweet less one'''
     oldest = alltweets[-1].id - 1
     
-    #keep grabbing tweets until there are no tweets left to grab
+    '''keep grabbing tweets until there are no tweets left to grab'''
     while len(new_tweets) > 0:
         print(f"getting tweets before {oldest}")
-        
-        #all subsiquent requests use the max_id param to prevent duplicates
-        new_tweets = api.user_timeline(screen_name = screen_name,
+        new_tweets = api.user_timeline(screen_name = screen_name, # all subsiquent requests use the max_id param to prevent duplicates
                                        count = 200,
                                        max_id = oldest,
-                                       tweet_mode = "extended")
-                                       #exclude_replies=False)
+                                       #exclude_replies=False,
+                                       tweet_mode = "extended"
+                                       )
         
-        #save most recent tweets
-        alltweets.extend(new_tweets)
+        alltweets.extend(new_tweets) # save most recent tweets
         
-        #update the id of the oldest tweet less one
-        oldest = alltweets[-1].id - 1
+        oldest = alltweets[-1].id - 1 # update the id of the oldest tweet less one
         
         print(f"...{len(alltweets)} tweets downloaded so far")
 
     pass
     
     return alltweets
-
 
 
 ##### tweeet objects to dataframe
