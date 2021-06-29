@@ -1,0 +1,538 @@
+,chamber,state,name,platform,handle_1,handle_2,term,complete_term,start_date_term,end_date_term,vacancy_term,party,comment
+0,S,Alabama,Tommy Tuberville,twitter,TTuberville,SenTuberville,117,1,1/3/2021,1/3/2023,0,R,NA
+1,S,Alabama,Richard Shelby,twitter,SenShelby,NA,117,1,1/3/2021,1/3/2023,0,R,NA
+2,S,Alaska,Dan Sullivan,twitter,SenDanSullivan,DanSullivan_AK,117,1,1/3/2021,1/3/2023,0,R,NA
+3,S,Alaska,Lisa Murkowski,twitter,lisamurkowski,LisaForSenate,117,1,1/3/2021,1/3/2023,0,R,NA
+4,S,Arizona,Kyrsten Sinema,twitter,kyrstensinema,SenatorSinema,117,1,1/3/2021,1/3/2023,0,D,NA
+5,S,Arizona,Mark Kelly,twitter,CaptMarkKelly,SenMarkKelly,117,1,1/3/2021,1/3/2023,0,D,NA
+6,S,Arkansas,Tom Cotton,twitter,SenTomCotton,TomCottonAR,117,1,1/3/2021,1/3/2023,0,R,NA
+7,S,Arkansas,John Boozman,twitter,JohnBoozman,Boozman4AR,117,1,1/3/2021,1/3/2023,0,R,NA
+8,S,California,Dianne Feinstein,twitter,SenFeinstein,DianneFeinstein,117,1,1/3/2021,1/3/2023,0,D,NA
+9,S,California,Kamala Harris,twitter,KamalaHarris,NA,117,0,1/3/2021,1/18/2021,0,D,https://www.washingtonpost.com/politics/kamala-harris-resigns-senate/2021/01/16/03cd0e90-5869-11eb-a817-e5e7f8a406d6_story.html
+10,S,California,Alex Padilla,twitter,AlexPadilla4CA,SenAlexPadilla,117,0,1/20/2021,1/3/2023,0,D,https://www.washingtonpost.com/politics/kamala-harris-resigns-senate/2021/01/16/03cd0e90-5869-11eb-a817-e5e7f8a406d6_story.html
+11,S,Colorado,John Hickenlooper,twitter,Hickenlooper,SenatorHick,117,1,1/3/2021,1/3/2023,0,D,NA
+12,S,Colorado,Michael Bennet,twitter,SenatorBennet,MichaelBennet,117,1,1/3/2021,1/3/2023,0,D,NA
+13,S,Connecticut,Chris Murphy,twitter,ChrisMurphyCT,SenMurphyOffice,117,1,1/3/2021,1/3/2023,0,D,NA
+14,S,Connecticut,Richard Blumenthal,twitter,SenBlumenthal,DickBlumenthal,117,1,1/3/2021,1/3/2023,0,D,NA
+15,S,Delaware,Tom Carper,twitter,SenatorCarper,TomCarperforDE,117,1,1/3/2021,1/3/2023,0,D,NA
+16,S,Delaware,Chris Coons,twitter,ChrisCoons,ChrisCoonsforDE,117,1,1/3/2021,1/3/2023,0,D,NA
+17,S,Florida,Rick Scott,twitter,SenRickScott,ScottforFlorida,117,1,1/3/2021,1/3/2023,0,R,NA
+18,S,Florida,Marco Rubio,twitter,marcorubio,SenRubioPress,117,1,1/3/2021,1/3/2023,0,R,NA
+19,S,Georgia,Jon Ossoff,twitter,ossoff,SenOssoff,117,0,1/20/2021,1/3/2023,0,D,https://www.washingtonpost.com/politics/georgia-certifies-ossoff-warnock-victories-paving-way-for-democratic-control-of-senate/2021/01/19/8b9cf672-5a59-11eb-a976-bad6431e03e2_story.html
+20,S,Georgia,Kelly Loeffler,twitter,KLoeffler,SenatorLoeffler,117,0,1/3/2021,1/20/2021,0,R,https://www.washingtonpost.com/politics/georgia-certifies-ossoff-warnock-victories-paving-way-for-democratic-control-of-senate/2021/01/19/8b9cf672-5a59-11eb-a976-bad6431e03e2_story.html
+21,S,Georgia,Raphael Warnock,twitter,ReverendWarnock,SenatorWarnock,117,0,1/20/2021,1/3/2023,0,D,https://www.washingtonpost.com/politics/georgia-certifies-ossoff-warnock-victories-paving-way-for-democratic-control-of-senate/2021/01/19/8b9cf672-5a59-11eb-a976-bad6431e03e2_story.html
+22,S,Hawaii,Mazie Hirono,twitter,maziehirono,mazieforhawaii,117,1,1/3/2021,1/3/2023,0,D,NA
+23,S,Hawaii,Brian Schatz,twitter,brianschatz,SenBrianSchatz,117,1,1/3/2021,1/3/2023,0,D,NA
+24,S,Idaho,Jim Risch,twitter,SenatorRisch,Risch4Idaho,117,1,1/3/2021,1/3/2023,0,R,NA
+25,S,Idaho,Mike Crapo,twitter,MikeCrapo,crapoforsenate,117,1,1/3/2021,1/3/2023,0,R,NA
+26,S,Illinois,Dick Durbin,twitter,SenatorDurbin,DickDurbin,117,1,1/3/2021,1/3/2023,0,D,NA
+27,S,Illinois,Tammy Duckworth,twitter,SenDuckworth,TammyDuckworth,117,1,1/3/2021,1/3/2023,0,D,NA
+28,S,Indiana,Mike Braun,twitter,SenatorBraun,braun4indiana,117,1,1/3/2021,1/3/2023,0,R,NA
+29,S,Indiana,Todd Young,twitter,SenToddYoung,ToddYoungIN,117,1,1/3/2021,1/3/2023,0,R,NA
+30,S,Iowa,Joni Ernst,twitter,SenJoniErnst,joniernst,117,1,1/3/2021,1/3/2023,0,R,NA
+31,S,Iowa,Chuck Grassley,twitter,ChuckGrassley,GrassleyPress,117,1,1/3/2021,1/3/2023,0,R,NA
+32,S,Kansas,Roger Marshall,twitter,RogerMarshallMD,RepMarshall,117,1,1/3/2021,1/3/2023,0,R,NA
+33,S,Kansas,Jerry Moran,twitter,JerryMoran,moranforkansas,117,1,1/3/2021,1/3/2023,0,R,NA
+34,S,Kentucky,Mitch McConnell,twitter,LeaderMcConnell,McConnellPress,117,1,1/3/2021,1/3/2023,0,R,NA
+35,S,Kentucky,Rand Paul,twitter,RandPaul,DrRandPaul,117,1,1/3/2021,1/3/2023,0,R,NA
+36,S,Louisiana,Bill Cassidy,twitter,BillCassidy,SenBillCassidy,117,1,1/3/2021,1/3/2023,0,R,NA
+37,S,Louisiana,John Kennedy,twitter,SenJohnKennedy,JohnKennedyLA,117,1,1/3/2021,1/3/2023,0,R,NA
+38,S,Maine,Angus King,twitter,SenAngusKing,AngusforMaine,117,1,1/3/2021,1/3/2023,0,I,NA
+39,S,Maine,Susan Collins,twitter,SenatorCollins,SenSusanCollins,117,1,1/3/2021,1/3/2023,0,R,NA
+40,S,Maryland,Ben Cardin,twitter,SenatorCardin,BenCardinforMD,117,1,1/3/2021,1/3/2023,0,D,NA
+41,S,Maryland,Chris Van Hollen,twitter,ChrisVanHollen,VanHollenForMD,117,1,1/3/2021,1/3/2023,0,D,NA
+42,S,Massachusetts,Elizabeth Warren,twitter,SenWarren,ewarren,117,1,1/3/2021,1/3/2023,0,D,NA
+43,S,Massachusetts,Ed Markey,twitter,SenMarkey,EdMarkey,117,1,1/3/2021,1/3/2023,0,D,NA
+44,S,Michigan,Debbie Stabenow,twitter,SenStabenow,stabenow,117,1,1/3/2021,1/3/2023,0,D,NA
+45,S,Michigan,Gary Peters,twitter,SenGaryPeters,GaryPeters,117,1,1/3/2021,1/3/2023,0,D,NA
+46,S,Minnesota,Amy Klobuchar,twitter,amyklobuchar,SenAmyKlobuchar,117,1,1/3/2021,1/3/2023,0,DFL,NA
+47,S,Minnesota,Tina Smith,twitter,TinaSmithMN,SenTinaSmith,117,1,1/3/2021,1/3/2023,0,DFL,NA
+48,S,Mississippi,Roger Wicker,twitter,SenatorWicker,RogerWicker,117,1,1/3/2021,1/3/2023,0,R,NA
+49,S,Mississippi,Cindy HydeSmith,twitter,cindyhydesmith,SenHydeSmith,117,1,1/3/2021,1/3/2023,0,R,NA
+50,S,Missouri,Josh Hawley,twitter,HawleyMO,SenHawleyPress,117,1,1/3/2021,1/3/2023,0,R,NA
+51,S,Missouri,Roy Blunt,twitter,RoyBlunt,NA,117,1,1/3/2021,1/3/2023,0,R,NA
+52,S,Montana,Jon Tester,twitter,SenatorTester,jontester,117,1,1/3/2021,1/3/2023,0,D,NA
+53,S,Montana,Steve Daines,twitter,SteveDaines,DainesforMT,117,1,1/3/2021,1/3/2023,0,R,NA
+54,S,Nebraska,Deb Fischer,twitter,SenatorFischer,DebFischerNE,117,1,1/3/2021,1/3/2023,0,R,NA
+55,S,Nebraska,Ben Sasse,twitter,SenSasse,TeamSasse,117,1,1/3/2021,1/3/2023,0,R,NA
+56,S,Nevada,Jacky Rosen,twitter,SenJackyRosen,RosenforNevada,117,1,1/3/2021,1/3/2023,0,D,NA
+57,S,Nevada,Catherine Cortez Masto,twitter,SenCortezMasto,CatherineForNV,117,1,1/3/2021,1/3/2023,0,D,NA
+58,S,New Hampshire,Jeanne Shaheen,twitter,SenatorShaheen,JeanneShaheen,117,1,1/3/2021,1/3/2023,0,D,NA
+59,S,New Hampshire,Maggie Hassan,twitter,SenatorHassan,Maggie_Hassan,117,1,1/3/2021,1/3/2023,0,D,NA
+60,S,New Jersey,Bob Menendez,twitter,SenatorMenendez,BobMenendezNJ,117,1,1/3/2021,1/3/2023,0,D,NA
+61,S,New Jersey,Cory Booker,twitter,CoryBooker,SenBooker,117,1,1/3/2021,1/3/2023,0,D,NA
+62,S,New Mexico,Martin Heinrich,twitter,MartinHeinrich,TeamHeinrich,117,1,1/3/2021,1/3/2023,0,D,NA
+63,S,New Mexico,Ben Ray Lujan,twitter,SenatorLujan,benraylujan,117,1,1/3/2021,1/3/2023,0,D,NA
+64,S,New York,Kirsten Gillibrand,twitter,SenGillibrand,gillibrandny,117,1,1/3/2021,1/3/2023,0,D,NA
+65,S,New York,Chuck Schumer,twitter,SenSchumer,chuckschumer,117,1,1/3/2021,1/3/2023,0,D,NA
+66,S,North Carolina,Thom Tillis,twitter,SenThomTillis,ThomTillis,117,1,1/3/2021,1/3/2023,0,R,NA
+67,S,North Carolina,Richard Burr,twitter,SenatorBurr,BurrForSenate,117,1,1/3/2021,1/3/2023,0,R,NA
+68,S,North Dakota,Kevin Cramer,twitter,SenKevinCramer,kevincramer,117,1,1/3/2021,1/3/2023,0,R,NA
+69,S,North Dakota,John Hoeven,twitter,SenJohnHoeven,hoeven4senate,117,1,1/3/2021,1/3/2023,0,R,NA
+70,S,Ohio,Sherrod Brown,twitter,SenSherrodBrown,SherrodBrown,117,1,1/3/2021,1/3/2023,0,D,NA
+71,S,Ohio,Rob Portman,twitter,senrobportman,robportman,117,1,1/3/2021,1/3/2023,0,R,NA
+72,S,Oklahoma,Jim Inhofe,twitter,JimInhofe,InhofePress,117,1,1/3/2021,1/3/2023,0,R,NA
+73,S,Oklahoma,James Lankford,twitter,SenatorLankford,jameslankford,117,1,1/3/2021,1/3/2023,0,R,NA
+74,S,Oregon,Jeff Merkley,twitter,SenJeffMerkley,JeffMerkley,117,1,1/3/2021,1/3/2023,0,D,NA
+75,S,Oregon,Ron Wyden,twitter,RonWyden,WydenPress,117,1,1/3/2021,1/3/2023,0,D,NA
+76,S,Pennsylvania,Bob Casey Jr,twitter,SenBobCasey,Bob_Casey,117,1,1/3/2021,1/3/2023,0,D,NA
+77,S,Pennsylvania,Pat Toomey,twitter,SenToomey,PatToomey,117,1,1/3/2021,1/3/2023,0,R,NA
+78,S,Rhode Island,Sheldon Whitehouse,twitter,SenWhitehouse,SheldonforRI,117,1,1/3/2021,1/3/2023,0,D,NA
+79,S,Rhode Island,Jack Reed,twitter,SenJackReed,jackreed2020,117,1,1/3/2021,1/3/2023,0,D,NA
+80,S,South Carolina,Lindsey Graham,twitter,LindseyGrahamSC,GrahamBlog,117,1,1/3/2021,1/3/2023,0,R,NA
+81,S,South Carolina,Tim Scott,twitter,SenatorTimScott,votetimscott,117,1,1/3/2021,1/3/2023,0,R,NA
+82,S,South Dakota,Mike Rounds,twitter,SenatorRounds,RoundsforSenate,117,1,1/3/2021,1/3/2023,0,R,NA
+83,S,South Dakota,John Thune,twitter,SenJohnThune,johnthune,117,1,1/3/2021,1/3/2023,0,R,NA
+84,S,Tennessee,Marsha Blackburn,twitter,MarshaBlackburn,VoteMarsha,117,1,1/3/2021,1/3/2023,0,R,NA
+85,S,Tennessee,Bill Hagerty,twitter,BillHagertyTN,SenatorHagerty,117,1,1/3/2021,1/3/2023,0,R,NA
+86,S,Texas,Ted Cruz,twitter,tedcruz,SenTedCruz,117,1,1/3/2021,1/3/2023,0,R,NA
+87,S,Texas,John Cornyn,twitter,JohnCornyn,TeamCornyn,117,1,1/3/2021,1/3/2023,0,R,NA
+88,S,Utah,Mitt Romney,twitter,MittRomney,SenatorRomney,117,1,1/3/2021,1/3/2023,0,R,NA
+89,S,Utah,Mike Lee,twitter,SenMikeLee,MikeLeeforUtah,117,1,1/3/2021,1/3/2023,0,R,NA
+90,S,Vermont,Bernie Sanders,twitter,BernieSanders,SenSanders,117,1,1/3/2021,1/3/2023,0,I,NA
+91,S,Vermont,Patrick Leahy,twitter,SenatorLeahy,PatrickLeahy,117,1,1/3/2021,1/3/2023,0,D,NA
+92,S,Virginia,Tim Kaine,twitter,timkaine,NA,117,1,1/3/2021,1/3/2023,0,D,NA
+93,S,Virginia,Mark Warner,twitter,MarkWarner,MarkWarnerVA,117,1,1/3/2021,1/3/2023,0,D,NA
+94,S,Washington,Maria Cantwell,twitter,SenatorCantwell,MariaCantwell,117,1,1/3/2021,1/3/2023,0,D,NA
+95,S,Washington,Patty Murray,twitter,PattyMurray,MurrayCampaign,117,1,1/3/2021,1/3/2023,0,D,NA
+96,S,West Virginia,Joe Manchin,twitter,Sen_JoeManchin,JoeManchinWV,117,1,1/3/2021,1/3/2023,0,D,NA
+97,S,West Virginia,Shelley Moore Capito,twitter,SenCapito,CapitoforWV,117,1,1/3/2021,1/3/2023,0,R,NA
+98,S,Wisconsin,Tammy Baldwin,twitter,SenatorBaldwin,tammybaldwin,117,1,1/3/2021,1/3/2023,0,D,NA
+99,S,Wisconsin,Ron Johnson,twitter,SenRonJohnson,RonJohnsonWI,117,1,1/3/2021,1/3/2023,0,R,NA
+100,S,Wyoming,John Barrasso,twitter,SenJohnBarrasso,barrassoforwyo,117,1,1/3/2021,1/3/2023,0,R,NA
+101,S,Wyoming,Cynthia Lummis,twitter,SenLummis,CynthiaMLummis,117,1,1/3/2021,1/3/2023,0,R,NA
+102,H,Alabama,Jerry Carl,twitter,CarlForAlabama,RepJerryCarl,117,1,1/3/2021,1/3/2023,0,R,NA
+103,H,Alabama,Barry Moore,twitter,RepBarryMoore,NA,117,1,1/3/2021,1/3/2023,0,R,NA
+104,H,Alabama,Mike Rogers,twitter,RepMikeRogersAL,MikeRogersCamp,117,1,1/3/2021,1/3/2023,0,R,NA
+105,H,Alabama,Robert Aderholt,twitter,Robert_Aderholt,NA,117,1,1/3/2021,1/3/2023,0,R,NA
+106,H,Alabama,Mo Brooks,twitter,RepMoBrooks,mobrooksforsen,117,1,1/3/2021,1/3/2023,0,R,NA
+107,H,Alabama,Gary Palmer,twitter,USRepGaryPalmer,Palmer4Alabama,117,1,1/3/2021,1/3/2023,0,R,NA
+108,H,Alabama,Terri Sewell,twitter,RepTerriSewell,Sewell4Congress,117,1,1/3/2021,1/3/2023,0,D,NA
+109,H,Alaska,Don Young,twitter,repdonyoung,DonYoungAK,117,1,1/3/2021,1/3/2023,0,R,NA
+110,H,Arizona,Tom OHalleran,twitter,RepOHalleran,TomOHalleran,117,1,1/3/2021,1/3/2023,0,D,NA
+111,H,Arizona,Ann Kirkpatrick,twitter,Ann_Kirkpatrick,RepKirkpatrick,117,1,1/3/2021,1/3/2023,0,D,NA
+112,H,Arizona,Raul Grijalva,twitter,RepRaulGrijalva,standwithraul,117,1,1/3/2021,1/3/2023,0,D,NA
+113,H,Arizona,Paul Gosar,twitter,RepGosar,DrPaulGosar,117,1,1/3/2021,1/3/2023,0,R,NA
+114,H,Arizona,Andy Biggs,twitter,RepAndyBiggsAZ,andybiggs4az,117,1,1/3/2021,1/3/2023,0,R,NA
+115,H,Arizona,David Schweikert,twitter,RepDavid,DavidSchweikert,117,1,1/3/2021,1/3/2023,0,R,NA
+116,H,Arizona,Ruben Gallego,twitter,RubenGallego,NA,117,1,1/3/2021,1/3/2023,0,D,NA
+117,H,Arizona,Debbie Lesko,twitter,RepDLesko,DebbieLesko,117,1,1/3/2021,1/3/2023,0,R,NA
+118,H,Arizona,Greg Stanton,twitter,gregstantonaz,RepGregStanton,117,1,1/3/2021,1/3/2023,0,D,NA
+119,H,Arkansas,Rick Crawford,twitter,RepRickCrawford,Crawford4Cong,117,1,1/3/2021,1/3/2023,0,R,NA
+120,H,Arkansas,French Hill,twitter,RepFrenchHill,ElectFrench,117,1,1/3/2021,1/3/2023,0,R,NA
+121,H,Arkansas,Steve Womack,twitter,rep_stevewomack,womack4congress,117,1,1/3/2021,1/3/2023,0,R,NA
+122,H,Arkansas,Bruce Westerman,twitter,RepWesterman,WestermanAR,117,1,1/3/2021,1/3/2023,0,R,NA
+123,H,California,Doug LaMalfa,twitter,RepLaMalfa,DougLaMalfa,117,1,1/3/2021,1/3/2023,0,R,NA
+124,H,California,Jared Huffman,twitter,RepHuffman,JaredHuffman,117,1,1/3/2021,1/3/2023,0,D,NA
+125,H,California,John Garamendi,twitter,RepGaramendi,JohnGaramendi,117,1,1/3/2021,1/3/2023,0,D,NA
+126,H,California,Tom McClintock,twitter,RepMcClintock,tommcclintock,117,1,1/3/2021,1/3/2023,0,R,NA
+127,H,California,Mike Thompson,twitter,RepThompson,ThompsonToons,117,1,1/3/2021,1/3/2023,0,D,NA
+128,H,California,Doris Matsui,twitter,DorisMatsui,Matsui4Congress,117,1,1/3/2021,1/3/2023,0,D,NA
+129,H,California,Ami Bera,twitter,RepBera,BeraForCongress,117,1,1/3/2021,1/3/2023,0,D,NA
+130,H,California,Jay Obernolte,twitter,JayObernolte,TeamObernolte,117,1,1/3/2021,1/3/2023,0,R,NA
+131,H,California,Jerry McNerney,twitter,RepMcNerney,jerrymcnerney,117,1,1/3/2021,1/3/2023,0,D,NA
+132,H,California,Josh Harder,twitter,RepJoshHarder,JoshHarder,117,1,1/3/2021,1/3/2023,0,D,NA
+133,H,California,Mark DeSaulnier,twitter,RepDeSaulnier,MarkDeSaulnier,117,1,1/3/2021,1/3/2023,0,D,NA
+134,H,California,Nancy Pelosi,twitter,SpeakerPelosi,TeamPelosi,117,1,1/3/2021,1/3/2023,0,D,NA
+135,H,California,Barbara Lee,twitter,RepBarbaraLee,BLeeForCongress,117,1,1/3/2021,1/3/2023,0,D,NA
+136,H,California,Jackie Speier,twitter,RepSpeier,JackieSpeier,117,1,1/3/2021,1/3/2023,0,D,NA
+137,H,California,Eric Swalwell,twitter,RepSwalwell,ericswalwell,117,1,1/3/2021,1/3/2023,0,D,NA
+138,H,California,Jim Costa,twitter,RepJimCosta,JimCosta_,117,1,1/3/2021,1/3/2023,0,D,NA
+139,H,California,Ro Khanna,twitter,RoKhanna,RoKhannaUSA,117,1,1/3/2021,1/3/2023,0,D,NA
+140,H,California,Anna Eshoo,twitter,RepAnnaEshoo,Eshoo4Congress,117,1,1/3/2021,1/3/2023,0,D,NA
+141,H,California,Zoe Lofgren,twitter,RepZoeLofgren,ZoeLofgren,117,1,1/3/2021,1/3/2023,0,D,NA
+142,H,California,Jimmy Panetta,twitter,RepJimmyPanetta,JimmyPanetta,117,1,1/3/2021,1/3/2023,0,D,NA
+143,H,California,David Valadao,twitter,RepDavidValadao,dgvaladao,117,1,1/3/2021,1/3/2023,0,R,NA
+144,H,California,Devin Nunes,twitter,DevinNunes,RepDevinNunes,117,1,1/3/2021,1/3/2023,0,R,NA
+145,H,California,Kevin McCarthy,twitter,GOPLeader,kevinomccarthy,117,1,1/3/2021,1/3/2023,0,R,NA
+146,H,California,Salud Carbajal,twitter,RepCarbajal,carbajalsalud,117,1,1/3/2021,1/3/2023,0,D,NA
+147,H,California,Mike Garcia,twitter,ElectMikeGarcia,RepMikeGarcia,117,1,1/3/2021,1/3/2023,0,R,NA
+148,H,California,Julia Brownley,twitter,RepBrownley,JuliaBrownley,117,1,1/3/2021,1/3/2023,0,D,NA
+149,H,California,Judy Chu,twitter,RepJudyChu,JudyChuCampaign,117,1,1/3/2021,1/3/2023,0,D,NA
+150,H,California,Adam Schiff,twitter,RepAdamSchiff,AdamSchiff,117,1,1/3/2021,1/3/2023,0,D,NA
+151,H,California,Tony Cardenas,twitter,RepCardenas,NA,117,1,1/3/2021,1/3/2023,0,D,NA
+152,H,California,Brad Sherman,twitter,BradSherman,NA,117,1,1/3/2021,1/3/2023,0,D,NA
+153,H,California,Pete Aguilar,twitter,RepPeteAguilar,aguilarpete,117,1,1/3/2021,1/3/2023,0,D,NA
+154,H,California,Grace Napolitano,twitter,gracenapolitano,grace4congress,117,1,1/3/2021,1/3/2023,0,D,NA
+155,H,California,Ted Lieu,twitter,tedlieu,RepTedLieu,117,1,1/3/2021,1/3/2023,0,D,NA
+156,H,California,Jimmy Gomez,twitter,RepJimmyGomez,JimmyGomezCA,117,1,1/3/2021,1/3/2023,0,D,NA
+157,H,California,Norma Torres,twitter,NormaJTorres,Norma4Congress,117,1,1/3/2021,1/3/2023,0,D,NA
+158,H,California,Raul Ruiz,twitter,RepRaulRuizMD,Dr_RaulRuiz,117,1,1/3/2021,1/3/2023,0,D,NA
+159,H,California,Karen Bass,twitter,RepKarenBass,KarenBassTweets,117,1,1/3/2021,1/3/2023,0,D,NA
+160,H,California,Linda Sanchez,twitter,RepLindaSanchez,LindaTSanchez,117,1,1/3/2021,1/3/2023,0,D,NA
+161,H,California,Young Kim,twitter,YoungKimCA,RepYoungKim,117,1,1/3/2021,1/3/2023,0,R,NA
+162,H,California,Lucille RoybalAllard,twitter,RepRoybalAllard,NA,117,1,1/3/2021,1/3/2023,0,D,NA
+163,H,California,Mark Takano,twitter,RepMarkTakano,NA,117,1,1/3/2021,1/3/2023,0,D,NA
+164,H,California,Ken Calvert,twitter,KenCalvert,TeamCalvert,117,1,1/3/2021,1/3/2023,0,R,NA
+165,H,California,Maxine Waters,twitter,RepMaxineWaters,MaxineWaters,117,1,1/3/2021,1/3/2023,0,D,NA
+166,H,California,Nanette Barragan,twitter,RepBarragan,Nanette4CA,117,1,1/3/2021,1/3/2023,0,D,NA
+167,H,California,Katie Porter,twitter,RepKatiePorter,katieporteroc,117,1,1/3/2021,1/3/2023,0,D,NA
+168,H,California,Lou Correa,twitter,RepLouCorrea,voteloucorrea,117,1,1/3/2021,1/3/2023,0,D,NA
+169,H,California,Alan Lowenthal,twitter,RepLowenthal,alanlowenthal,117,1,1/3/2021,1/3/2023,0,D,NA
+170,H,California,Michelle Steel,twitter,MichelleSteelCA,RepSteel,117,1,1/3/2021,1/3/2023,0,R,NA
+171,H,California,Mike Levin,twitter,MikeLevin,RepMikeLevin,117,1,1/3/2021,1/3/2023,0,D,NA
+172,H,California,Darrell Issa,twitter,DarrellIssa,repdarrellissa,117,1,1/3/2021,1/3/2023,0,R,NA
+173,H,California,Juan Vargas,twitter,RepJuanVargas,JuanVargas4CA,117,1,1/3/2021,1/3/2023,0,D,NA
+174,H,California,Scott Peters,twitter,RepScottPeters,ScottPetersSD,117,1,1/3/2021,1/3/2023,0,D,NA
+175,H,California,Sara Jacobs,twitter,SaraJacobsCA,RepSaraJacobs,117,1,1/3/2021,1/3/2023,0,D,NA
+176,H,Colorado,Diana DeGette,twitter,RepDianaDeGette,DeGette5280,117,1,1/3/2021,1/3/2023,0,D,NA
+177,H,Colorado,Joe Neguse,twitter,RepJoeNeguse,JoeNeguse,117,1,1/3/2021,1/3/2023,0,D,NA
+178,H,Colorado,Lauren Boebert,twitter,laurenboebert,RepBoebert,117,1,1/3/2021,1/3/2023,0,R,NA
+179,H,Colorado,Ken Buck,twitter,RepKenBuck,BuckForColorado,117,1,1/3/2021,1/3/2023,0,R,NA
+180,H,Colorado,Doug Lamborn,twitter,RepDLamborn,DougLambornCD5,117,1,1/3/2021,1/3/2023,0,R,NA
+181,H,Colorado,Jason Crow,twitter,RepJasonCrow,NA,117,1,1/3/2021,1/3/2023,0,D,NA
+182,H,Colorado,Ed Perlmutter,twitter,RepPerlmutter,Ed4Colorado,117,1,1/3/2021,1/3/2023,0,D,NA
+183,H,Connecticut,John B Larson,twitter,RepJohnLarson,JohnLarsonCT,117,1,1/3/2021,1/3/2023,0,D,NA
+184,H,Connecticut,Joe Courtney,twitter,RepJoeCourtney,JoeCourtneyCT,117,1,1/3/2021,1/3/2023,0,D,NA
+185,H,Connecticut,Rosa DeLauro,twitter,rosadelauro,Rosa_DeLauro,117,1,1/3/2021,1/3/2023,0,D,NA
+186,H,Connecticut,Jim Himes,twitter,jahimes,NA,117,1,1/3/2021,1/3/2023,0,D,NA
+187,H,Connecticut,Jahana Hayes,twitter,RepJahanaHayes,JahanaHayesCT,117,1,1/3/2021,1/3/2023,0,D,NA
+188,H,Delaware,Lisa Blunt Rochester,twitter,RepLBR,LisaBRochester,117,1,1/3/2021,1/3/2023,0,D,NA
+189,H,Florida,Matt Gaetz,twitter,RepMattGaetz,mattgaetz,117,1,1/3/2021,1/3/2023,0,R,NA
+190,H,Florida,Neal Dunn,twitter,DrNealDunnFL2,DunnCampaign,117,1,1/3/2021,1/3/2023,0,R,NA
+191,H,Florida,Kat Cammack,twitter,Kat_Cammack,RepKatCammack,117,1,1/3/2021,1/3/2023,0,R,NA
+192,H,Florida,John Rutherford,twitter,RepRutherfordFL,JRutherfordFL,117,1,1/3/2021,1/3/2023,0,R,NA
+193,H,Florida,Al Lawson,twitter,RepAlLawsonJr,AlLawsonJr,117,1,1/3/2021,1/3/2023,0,D,NA
+194,H,Florida,Michael Waltz,twitter,michaelgwaltz,RepWaltzPress,117,1,1/3/2021,1/3/2023,0,R,NA
+195,H,Florida,Stephanie Murphy,twitter,RepStephMurphy,SMurphyCongress,117,1,1/3/2021,1/3/2023,0,D,NA
+196,H,Florida,Bill Posey,twitter,congbillposey,PoseyCampaign,117,1,1/3/2021,1/3/2023,0,R,NA
+197,H,Florida,Darren Soto,twitter,RepDarrenSoto,DarrenSoto,117,1,1/3/2021,1/3/2023,0,D,NA
+198,H,Florida,Val Demings,twitter,RepValDemings,val_demings,117,1,1/3/2021,1/3/2023,0,D,NA
+199,H,Florida,Daniel Webster,twitter,RepWebster,WebsterCongress,117,1,1/3/2021,1/3/2023,0,R,NA
+200,H,Florida,Gus Bilirakis,twitter,RepGusBilirakis,Bilirakis,117,1,1/3/2021,1/3/2023,0,R,NA
+201,H,Florida,Charlie Crist,twitter,CharlieCrist,RepCharlieCrist,117,1,1/3/2021,1/3/2023,0,D,NA
+202,H,Florida,Kathy Castor,twitter,USRepKCastor,KathyCastorFL,117,1,1/3/2021,1/3/2023,0,D,NA
+203,H,Florida,Scott Franklin,twitter,RepFranklin,ScottFranklinFL,117,1,1/3/2021,1/3/2023,0,R,NA
+204,H,Florida,Vern Buchanan,twitter,VernBuchanan,Vern2014,117,1,1/3/2021,1/3/2023,0,R,NA
+205,H,Florida,Greg Steube,twitter,RepGregSteube,gregsteube,117,1,1/3/2021,1/3/2023,0,R,NA
+206,H,Florida,Brian Mast,twitter,RepBrianMast,BrianMastFL,117,1,1/3/2021,1/3/2023,0,R,NA
+207,H,Florida,Byron Donalds,twitter,ByronDonalds,RepDonaldsPress,117,1,1/3/2021,1/3/2023,0,R,NA
+208,H,Florida,Alcee Hastings,twitter,RepHastingsFL,NA,117,0,1/3/2021,4/6/2021,1,D,https://www.politico.com/news/2021/04/06/rep-alcee-hastings-dies-at-84-after-cancer-fight-479152
+209,H,Florida,Lois Frankel,twitter,RepLoisFrankel,LoisFrankel,117,1,1/3/2021,1/3/2023,0,D,NA
+210,H,Florida,Ted Deutch,twitter,RepTedDeutch,TedDeutch,117,1,1/3/2021,1/3/2023,0,D,NA
+211,H,Florida,Debbie Wasserman Schultz,twitter,DWStweets,RepDWStweets,117,1,1/3/2021,1/3/2023,0,D,NA
+212,H,Florida,Frederica Wilson,twitter,RepWilson,FSWInTheHouse,117,1,1/3/2021,1/3/2023,0,D,NA
+213,H,Florida,Mario Diaz Balart,twitter,MarioDB,MarioDBCamp,117,1,1/3/2021,1/3/2023,0,R,NA
+214,H,Florida,Carlos Gimenez,twitter,CarlosGimenezFL,RepCarlos,117,1,1/3/2021,1/3/2023,0,R,NA
+215,H,Florida,Maria Elvira Salazar,twitter,MaElviraSalazar,RepMariaSalazar,117,1,1/3/2021,1/3/2023,0,R,NA
+216,H,Georgia,Buddy Carter,twitter,RepBuddyCarter,Buddy_Carter,117,1,1/3/2021,1/3/2023,0,R,NA
+217,H,Georgia,Sanford Bishop,twitter,SanfordBishop,NA,117,1,1/3/2021,1/3/2023,0,D,NA
+218,H,Georgia,Drew Ferguson,twitter,RepDrewFerguson,DrewFergusonGA,117,1,1/3/2021,1/3/2023,0,R,NA
+219,H,Georgia,Hank Johnson,twitter,RepHankJohnson,ReElectHank,117,1,1/3/2021,1/3/2023,0,D,NA
+220,H,Georgia,Nikema Williams,twitter,NikemaWilliams,DPGChair,117,1,1/3/2021,1/3/2023,0,D,NA
+221,H,Georgia,Lucy McBath,twitter,lucymcbath,RepLucyMcBath,117,1,1/3/2021,1/3/2023,0,D,NA
+222,H,Georgia,Carolyn Bourdeaux,twitter,Carolyn4GA7,RepBourdeaux,117,1,1/3/2021,1/3/2023,0,D,NA
+223,H,Georgia,Austin Scott,twitter,AustinScottGA08,AustinScott4GA,117,1,1/3/2021,1/3/2023,0,R,NA
+224,H,Georgia,Andrew Clyde,twitter,Rep_Clyde,NA,117,1,1/3/2021,1/3/2023,0,R,NA
+225,H,Georgia,Jody Hice,twitter,CongressmanHice,JodyHice,117,1,1/3/2021,1/3/2023,0,R,NA
+226,H,Georgia,Barry Loudermilk,twitter,RepLoudermilk,standwithbarry,117,1,1/3/2021,1/3/2023,0,R,NA
+227,H,Georgia,Rick W Allen,twitter,RepRickAllen,rickallen,117,1,1/3/2021,1/3/2023,0,R,NA
+228,H,Georgia,David Scott,twitter,repdavidscott,Electdavidscott,117,1,1/3/2021,1/3/2023,0,D,NA
+229,H,Georgia,Marjorie Taylor Greene,twitter,mtgreenee,RepMTG,117,1,1/3/2021,1/3/2023,0,R,NA
+230,H,Hawaii,Ed Case,twitter,RepEdCase,EdCaseHawaii,117,1,1/3/2021,1/3/2023,0,D,NA
+231,H,Idaho,Russ Fulcher,twitter,RepRussFulcher,RussFulcher,117,1,1/3/2021,1/3/2023,0,R,NA
+232,H,Idaho,Mike Simpson,twitter,CongMikeSimpson,MikeSimpson4ID,117,1,1/3/2021,1/3/2023,0,R,NA
+233,H,Illinois,Bobby Rush,twitter,RepBobbyRush,BobbyLRushMC,117,1,1/3/2021,1/3/2023,0,D,NA
+234,H,Illinois,Robin Kelly,twitter,RepRobinKelly,RobinLynneKelly,117,1,1/3/2021,1/3/2023,0,D,NA
+235,H,Illinois,Marie Newman,twitter,Marie4Congress,RepMarieNewman,117,1,1/3/2021,1/3/2023,0,D,NA
+236,H,Illinois,Jesus Chuy Garcia,twitter,ChuyForCongress,RepChuyGarcia,117,1,1/3/2021,1/3/2023,0,D,NA
+237,H,Illinois,Mike Quigley,twitter,RepMikeQuigley,QuigleyCampaign,117,1,1/3/2021,1/3/2023,0,D,NA
+238,H,Illinois,Sean Casten,twitter,SeanCasten,RepCasten,117,1,1/3/2021,1/3/2023,0,D,NA
+239,H,Illinois,Danny K Davis,twitter,RepDannyDavis,DannyKDavis7th,117,1,1/3/2021,1/3/2023,0,D,NA
+240,H,Illinois,Raja Krishnamoorthi,twitter,CongressmanRaja,RajaForCongress,117,1,1/3/2021,1/3/2023,0,D,NA
+241,H,Illinois,Jan Schakowsky,twitter,janschakowsky,RepSchakowsky,117,1,1/3/2021,1/3/2023,0,D,NA
+242,H,Illinois,Brad Schneider,twitter,Schneider4IL10,RepSchneider,117,1,1/3/2021,1/3/2023,0,D,NA
+243,H,Illinois,Bill Foster,twitter,RepBillFoster,Foster4Congress,117,1,1/3/2021,1/3/2023,0,D,NA
+244,H,Illinois,Mike Bost,twitter,RepBost,BostForCongress,117,1,1/3/2021,1/3/2023,0,R,NA
+245,H,Illinois,Rodney Davis,twitter,RodneyDavis,ElectRodney,117,1,1/3/2021,1/3/2023,0,R,NA
+246,H,Illinois,Lauren Underwood,twitter,LaurenUnderwood,RepUnderwood,117,1,1/3/2021,1/3/2023,0,D,NA
+247,H,Illinois,Mary Miller,twitter,RepMaryMiller,Miller_Congress,117,1,1/3/2021,1/3/2023,0,R,NA
+248,H,Illinois,Adam Kinzinger,twitter,RepKinzinger,AdamKinzinger,117,1,1/3/2021,1/3/2023,0,R,NA
+249,H,Illinois,Cheri Bustos,twitter,RepCheri,CheriBustos,117,1,1/3/2021,1/3/2023,0,D,NA
+250,H,Illinois,Darin LaHood,twitter,RepLaHood,ElectLaHood,117,1,1/3/2021,1/3/2023,0,R,NA
+251,H,Indiana,Frank J Mrvan,twitter,RepMrvan,mrvan4congress,117,1,1/3/2021,1/3/2023,0,D,NA
+252,H,Indiana,Jackie Walorski,twitter,RepWalorski,jackiewalorski,117,1,1/3/2021,1/3/2023,0,R,NA
+253,H,Indiana,Jim Banks,twitter,RepJimBanks,Jim_Banks,117,1,1/3/2021,1/3/2023,0,R,NA
+254,H,Indiana,Jim Baird,twitter,RepJimBaird,ElectJimBaird,117,1,1/3/2021,1/3/2023,0,R,NA
+255,H,Indiana,Victoria Spartz,twitter,RepSpartz,Victoria_Spartz,117,1,1/3/2021,1/3/2023,0,R,NA
+256,H,Indiana,Greg Pence,twitter,RepGregPence,GregPenceIN,117,1,1/3/2021,1/3/2023,0,R,NA
+257,H,Indiana,Andre Carson,twitter,RepAndreCarson,Andre4Congress,117,1,1/3/2021,1/3/2023,0,D,NA
+258,H,Indiana,Larry Bucshon,twitter,RepLarryBucshon,DrLarryBucshon,117,1,1/3/2021,1/3/2023,0,R,NA
+259,H,Indiana,Trey Hollingsworth,twitter,RepTrey,VoteForTrey,117,1,1/3/2021,1/3/2023,0,R,NA
+260,H,Iowa,Ashley Hinson,twitter,hinsonashley,RepAshleyHinson,117,1,1/3/2021,1/3/2023,0,R,NA
+261,H,Iowa,Mariannette MillerMeeks,twitter,millermeeks,RepMMM,117,1,1/3/2021,1/3/2023,0,R,NA
+262,H,Iowa,Cindy Axne,twitter,RepCindyAxne,Axne4Congress,117,1,1/3/2021,1/3/2023,0,D,NA
+263,H,Iowa,Randy Feenstra,twitter,RandyFeenstra,RepFeenstra,117,1,1/3/2021,1/3/2023,0,R,NA
+264,H,Kansas,Tracey Mann,twitter,RepMann,TraceyMannKS,117,1,1/3/2021,1/3/2023,0,R,NA
+265,H,Kansas,Jake LaTurner,twitter,JakeLaTurner,RepLaTurner,117,1,1/3/2021,1/3/2023,0,R,NA
+266,H,Kansas,Sharice Davids,twitter,sharicedavids,RepDavids,117,1,1/3/2021,1/3/2023,0,D,NA
+267,H,Kansas,Ron Estes,twitter,RepRonEstes,RonEstesKS,117,1,1/3/2021,1/3/2023,0,R,NA
+268,H,Kentucky,James Comer,twitter,JamesComer,RepJamesComer,117,1,1/3/2021,1/3/2023,0,R,NA
+269,H,Kentucky,Brett Guthrie,twitter,RepGuthrie,brettguthrie,117,1,1/3/2021,1/3/2023,0,R,NA
+270,H,Kentucky,John Yarmuth,twitter,RepJohnYarmuth,NA,117,1,1/3/2021,1/3/2023,0,D,NA
+271,H,Kentucky,Thomas Massie,twitter,RepThomasMassie,MassieforKY,117,1,1/3/2021,1/3/2023,0,R,NA
+272,H,Kentucky,Hal Rogers,twitter,RepHalRogers,HalRogersKY5,117,1,1/3/2021,1/3/2023,0,R,NA
+273,H,Kentucky,Andy Barr,twitter,RepAndyBarr,barrforcongress,117,1,1/3/2021,1/3/2023,0,R,NA
+274,H,Louisiana,Steve Scalise,twitter,SteveScalise,SteveScaliseGOP,117,1,1/3/2021,1/3/2023,0,R,NA
+275,H,Louisiana,Cedric Richmond,twitter,RepRichmond,CedricRichmond,117,0,1/3/2021,1/15/2021,0,D,"https://wgno.com/news/politics/louisiana-house-democratic-caucus-thanks-rep-richmond-for-his-service-in-congress/, some gap"
+276,H,Louisiana,Troy Carter,twitter,troyc4Congress,tcartersenate,117,0,5/11/2021,1/3/2023,0,D,"https://wgno.com/news/politics/louisiana-house-democratic-caucus-thanks-rep-richmond-for-his-service-in-congress/, some gap"
+277,H,Louisiana,Clay Higgins,twitter,RepClayHiggins,CaptClayHiggins,117,1,1/3/2021,1/3/2023,0,R,NA
+278,H,Louisiana,Mike Johnson,twitter,CaptClayHiggins,MikeJohnson,117,1,1/3/2021,1/3/2023,0,R,NA
+279,H,Louisiana,Julia Letlow,twitter,jbletlow,NA,117,0,4/14/2021,1/3/2023,0,R,"https://www.thenewsstar.com/story/news/politics/2020/12/30/louisiana-congressman-luke-letlow-replacement/4085193001/, some gap"
+280,H,Louisiana,Garret Graves,twitter,RepGarretGraves,garretgraves,117,1,1/3/2021,1/3/2023,0,R,NA
+281,H,Maine,Chellie Pingree,twitter,chelliepingree,NA,117,1,1/3/2021,1/3/2023,0,D,NA
+282,H,Maine,Jared Golden,twitter,RepGolden,golden4congress,117,1,1/3/2021,1/3/2023,0,D,NA
+283,H,Maryland,Andy Harris,twitter,RepAndyHarrisMD,Harris4Congress,117,1,1/3/2021,1/3/2023,0,R,NA
+284,H,Maryland,Dutch Ruppersberger,twitter,Call_Me_Dutch,GoDutchForMD,117,1,1/3/2021,1/3/2023,0,D,NA
+285,H,Maryland,John Sarbanes,twitter,RepSarbanes,JohnSarbanes,117,1,1/3/2021,1/3/2023,0,D,NA
+286,H,Maryland,Anthony G Brown,twitter,RepAnthonyBrown,AnthonyBrownMD4,117,1,1/3/2021,1/3/2023,0,D,NA
+287,H,Maryland,Steny Hoyer,twitter,LeaderHoyer,StenyHoyer,117,1,1/3/2021,1/3/2023,0,D,NA
+288,H,Maryland,David Trone,twitter,RepDavidTrone,davidjtrone,117,1,1/3/2021,1/3/2023,0,D,NA
+289,H,Maryland,Kweisi Mfume,twitter,Mfume4Congress,RepKweisiMfume,117,1,1/3/2021,1/3/2023,0,D,NA
+290,H,Maryland,Jamie Raskin,twitter,RepRaskin,jamie_raskin,117,1,1/3/2021,1/3/2023,0,D,NA
+291,H,Massachusetts,Richard Neal,twitter,RepRichardNeal,NealForCongress,117,1,1/3/2021,1/3/2023,0,D,NA
+292,H,Massachusetts,Jim McGovern,twitter,RepMcGovern,McGovernMA,117,1,1/3/2021,1/3/2023,0,D,NA
+293,H,Massachusetts,Lori Trahan,twitter,RepLoriTrahan,LoriTrahanMA,117,1,1/3/2021,1/3/2023,0,D,NA
+294,H,Massachusetts,Jake Auchincloss,twitter,JakeAuch,RepAuchincloss,117,1,1/3/2021,1/3/2023,0,D,NA
+295,H,Massachusetts,Katherine Clark,twitter,RepKClark,KatherineClark,117,1,1/3/2021,1/3/2023,0,D,NA
+296,H,Massachusetts,Seth Moulton,twitter,sethmoulton,teammoulton,117,1,1/3/2021,1/3/2023,0,D,NA
+297,H,Massachusetts,Ayanna Pressley,twitter,AyannaPressley,RepPressley,117,1,1/3/2021,1/3/2023,0,D,NA
+298,H,Massachusetts,Stephen F Lynch,twitter,RepStephenLynch,RepLynch,117,1,1/3/2021,1/3/2023,0,D,NA
+299,H,Massachusetts,Bill Keating,twitter,USRepKeating,WilliamKeating,117,1,1/3/2021,1/3/2023,0,D,NA
+300,H,Michigan,Jack Bergman,twitter,RepJackBergman,JackBergman_MI1,117,1,1/3/2021,1/3/2023,0,R,NA
+301,H,Michigan,Bill Huizenga,twitter,RepHuizenga,billhuizenga,117,1,1/3/2021,1/3/2023,0,R,NA
+302,H,Michigan,Peter Meijer,twitter,RepMeijer,VoteMeijer,117,1,1/3/2021,1/3/2023,0,R,NA
+303,H,Michigan,John Moolenaar,twitter,RepMoolenaar,JohnMoolenaar,117,1,1/3/2021,1/3/2023,0,R,NA
+304,H,Michigan,Dan Kildee,twitter,RepDanKildee,dankildee,117,1,1/3/2021,1/3/2023,0,D,NA
+305,H,Michigan,Fred Upton,twitter,RepFredUpton,UptonForAllOfUs,117,1,1/3/2021,1/3/2023,0,R,NA
+306,H,Michigan,Tim Walberg,twitter,RepWalberg,TimWalberg,117,1,1/3/2021,1/3/2023,0,R,NA
+307,H,Michigan,Elissa Slotkin,twitter,RepSlotkin,ElissaSlotkin,117,1,1/3/2021,1/3/2023,0,D,NA
+308,H,Michigan,Andy Levin,twitter,RepAndyLevin,Andy_Levin,117,1,1/3/2021,1/3/2023,0,D,NA
+309,H,Michigan,Lisa McClain,twitter,RepLisaMcClain,LisaForCongress,117,1,1/3/2021,1/3/2023,0,R,NA
+310,H,Michigan,Haley Stevens,twitter,RepHaleyStevens,HaleyLive,117,1,1/3/2021,1/3/2023,0,D,NA
+311,H,Michigan,Debbie Dingell,twitter,RepDebDingell,DebDingell,117,1,1/3/2021,1/3/2023,0,D,NA
+312,H,Michigan,Rashida Tlaib,twitter,RashidaTlaib,RepRashida,117,1,1/3/2021,1/3/2023,0,D,NA
+313,H,Michigan,Brenda Lawrence,twitter,RepLawrence,BrendaLLawrence,117,1,1/3/2021,1/3/2023,0,D,NA
+314,H,Minnesota,Jim Hagedorn,twitter,RepHagedorn,JimHagedornMN,117,1,1/3/2021,1/3/2023,0,R,NA
+315,H,Minnesota,Angie Craig,twitter,RepAngieCraig,AngieCraigMN,117,1,1/3/2021,1/3/2023,0,DFL,NA
+316,H,Minnesota,Dean Phillips,twitter,RepDeanPhillips,deanbphillips,117,1,1/3/2021,1/3/2023,0,DFL,NA
+317,H,Minnesota,Betty McCollum,twitter,BettyMcCollum04,VoteBetty,117,1,1/3/2021,1/3/2023,0,DFL,NA
+318,H,Minnesota,Ilhan Omar,twitter,IlhanMN,Ilhan,117,1,1/3/2021,1/3/2023,0,DFL,NA
+319,H,Minnesota,Tom Emmer,twitter,RepTomEmmer,tomemmer,117,1,1/3/2021,1/3/2023,0,R,NA
+320,H,Minnesota,Michelle Fischbach,twitter,FischbachMN7,RepFischbach,117,1,1/3/2021,1/3/2023,0,R,NA
+321,H,Minnesota,Pete Stauber,twitter,RepPeteStauber,PeteStauber,117,1,1/3/2021,1/3/2023,0,R,NA
+322,H,Mississippi,Trent Kelly,twitter,RepTrentKelly,KellyforMS01,117,1,1/3/2021,1/3/2023,0,R,NA
+323,H,Mississippi,Bennie Thompson,twitter,BennieGThompson,BGThompsonMS,117,1,1/3/2021,1/3/2023,0,D,NA
+324,H,Mississippi,Michael Guest,twitter,RepMichaelGuest,GuestCongress,117,1,1/3/2021,1/3/2023,0,R,NA
+325,H,Mississippi,Steven Palazzo,twitter,CongPalazzo,StevenPalazzo,117,1,1/3/2021,1/3/2023,0,R,NA
+326,H,Missouri,Cori Bush,twitter,CoriBush,RepCori,117,1,1/3/2021,1/3/2023,0,D,NA
+327,H,Missouri,Ann Wagner,twitter,RepAnnWagner,AnnLWagner,117,1,1/3/2021,1/3/2023,0,R,NA
+328,H,Missouri,Blaine Luetkemeyer,twitter,RepBlaine,LuetkemeyerB,117,1,1/3/2021,1/3/2023,0,R,NA
+329,H,Missouri,Vicky Hartzler,twitter,RepHartzler,VickiHartzler,117,1,1/3/2021,1/3/2023,0,R,NA
+330,H,Missouri,Emanuel Cleaver,twitter,repcleaver,Vote4Cleaver,117,1,1/3/2021,1/3/2023,0,D,NA
+331,H,Missouri,Sam Graves,twitter,RepSamGraves,NA,117,1,1/3/2021,1/3/2023,0,R,NA
+332,H,Missouri,Billy Long,twitter,USRepLong,auctnr1,117,1,1/3/2021,1/3/2023,0,R,NA
+333,H,Missouri,Jason Smith,twitter,RepJasonSmith,JasonSmithMO,117,1,1/3/2021,1/3/2023,0,R,NA
+334,H,Montana,Matt Rosendale,twitter,MattForMontana,RepRosendale,117,1,1/3/2021,1/3/2023,0,R,NA
+335,H,Nebraska,Jeff Fortenberry,twitter,JeffFortenberry,supportfortNE,117,1,1/3/2021,1/3/2023,0,R,NA
+336,H,Nebraska,Don Bacon,twitter,RepDonBacon,DonJBacon,117,1,1/3/2021,1/3/2023,0,R,NA
+337,H,Nebraska,Adrian Smith,twitter,RepAdrianSmith,NA,117,1,1/3/2021,1/3/2023,0,R,NA
+338,H,Nevada,Dina Titus,twitter,repdinatitus,dinatitus,117,1,1/3/2021,1/3/2023,0,D,NA
+339,H,Nevada,Mark Amodei,twitter,MarkAmodeiNV2,AmodeiForNevada,117,1,1/3/2021,1/3/2023,0,R,NA
+340,H,Nevada,Susie Lee,twitter,RepSusieLee,SusieLeeNV,117,1,1/3/2021,1/3/2023,0,D,NA
+341,H,Nevada,Steven Horsford,twitter,RepHorsford,StevenHorsford,117,1,1/3/2021,1/3/2023,0,D,NA
+342,H,New Hampshire,Chris Pappas,twitter,ChrisPappasNH,RepChrisPappas,117,1,1/3/2021,1/3/2023,0,D,NA
+343,H,New Hampshire,Ann McLane Kuster,twitter,RepAnnieKuster,AnnMcLaneKuster,117,1,1/3/2021,1/3/2023,0,D,NA
+344,H,New Jersey,Donald Norcross,twitter,DonaldNorcross,DonNorcross4NJ,117,1,1/3/2021,1/3/2023,0,D,NA
+345,H,New Jersey,Jeff Van Drew,twitter,JeffVanDrew,CongressmanJVD,117,1,1/3/2021,1/3/2023,0,R,NA
+346,H,New Jersey,Andy Kim,twitter,AndyKimNJ,RepAndyKimNJ,117,1,1/3/2021,1/3/2023,0,D,NA
+347,H,New Jersey,Chris Smith,twitter,RepChrisSmith,NA,117,1,1/3/2021,1/3/2023,0,R,NA
+348,H,New Jersey,Josh Gottheimer,twitter,RepJoshG,JoshGottheimer,117,1,1/3/2021,1/3/2023,0,D,NA
+349,H,New Jersey,Frank Pallone,twitter,FrankPallone,pallonefornj,117,1,1/3/2021,1/3/2023,0,D,NA
+350,H,New Jersey,Tom Malinowski,twitter,Malinowski,RepMalinowski,117,1,1/3/2021,1/3/2023,0,D,NA
+351,H,New Jersey,Albio Sires,twitter,RepSires,AlbioSiresNJ,117,1,1/3/2021,1/3/2023,0,D,NA
+352,H,New Jersey,Bill Pascrell,twitter,BillPascrell,PascrellforNJ,117,1,1/3/2021,1/3/2023,0,D,NA
+353,H,New Jersey,Donald Payne Jr,twitter,RepDonaldPayne,DonaldPayneJr,117,1,1/3/2021,1/3/2023,0,D,NA
+354,H,New Jersey,Mikie Sherrill,twitter,RepSherrill,MikieSherrill,117,1,1/3/2021,1/3/2023,0,D,NA
+355,H,New Jersey,Bonnie Watson Coleman,twitter,RepBonnie,Bonnie4Congress,117,1,1/3/2021,1/3/2023,0,D,NA
+356,H,New Mexico,Deb Haaland,twitter,DebHaalandNM,RepDebHaaland,117,0,1/3/2021,3/16/2021,1,D,https://edition.cnn.com/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html
+357,H,New Mexico,Yvette Herrell,twitter,RepHerrell,Yvette4congress,117,1,1/3/2021,1/3/2023,0,R,NA
+358,H,New Mexico,Teresa Leger Fernandez,twitter,TeresaForNM,RepTeresaLF,117,1,1/3/2021,1/3/2023,0,D,NA
+359,H,New York,Lee Zeldin,twitter,RepLeeZeldin,leezeldin,117,1,1/3/2021,1/3/2023,0,R,NA
+360,H,New York,Andrew Garbarino,twitter,RepGarbarino,GarbarinoforNY,117,1,1/3/2021,1/3/2023,0,R,NA
+361,H,New York,Thomas Suozzi,twitter,RepTomSuozzi,Tom_Suozzi,117,1,1/3/2021,1/3/2023,0,D,NA
+362,H,New York,Kathleen Rice,twitter,RepKathleenRice,KathleenRice,117,1,1/3/2021,1/3/2023,0,D,NA
+363,H,New York,Gregory Meeks,twitter,RepGregoryMeeks,GregMeeksNYC,117,1,1/3/2021,1/3/2023,0,D,NA
+364,H,New York,Grace Meng,twitter,RepGraceMeng,Grace4NY,117,1,1/3/2021,1/3/2023,0,D,NA
+365,H,New York,Nydia Velazquez,twitter,NydiaVelazquez,ReElectNydia,117,1,1/3/2021,1/3/2023,0,D,NA
+366,H,New York,Hakeem Jeffries,twitter,RepJeffries,teamJeffries,117,1,1/3/2021,1/3/2023,0,D,NA
+367,H,New York,Yvette Clarke,twitter,RepYvetteClarke,VoteYvette,117,1,1/3/2021,1/3/2023,0,D,NA
+368,H,New York,Jerry Nadler,twitter,RepJerryNadler,JerryNadler,117,1,1/3/2021,1/3/2023,0,D,NA
+369,H,New York,Nicole Malliotakis,twitter,NMalliotakis,RepMalliotakis,117,1,1/3/2021,1/3/2023,0,R,NA
+370,H,New York,Carolyn Maloney,twitter,RepMaloney,CarolynBMaloney,117,1,1/3/2021,1/3/2023,0,D,NA
+371,H,New York,Adriano Espaillat,twitter,RepEspaillat,EspaillatNY,117,1,1/3/2021,1/3/2023,0,D,NA
+372,H,New York,Alexandria OcasioCortez,twitter,AOC,RepAOC,117,1,1/3/2021,1/3/2023,0,D,NA
+373,H,New York,Ritchie Torres,twitter,RitchieTorres,RepRitchie,117,1,1/3/2021,1/3/2023,0,D,NA
+374,H,New York,Jamaal Bowman,twitter,JamaalBowmanNY,RepBowman,117,1,1/3/2021,1/3/2023,0,D,NA
+375,H,New York,Mondaire Jones,twitter,MondaireJones,RepMondaire,117,1,1/3/2021,1/3/2023,0,D,NA
+376,H,New York,Sean Patrick Maloney,twitter,RepSeanMaloney,spmaloney,117,1,1/3/2021,1/3/2023,0,D,NA
+377,H,New York,Antonio Delgado,twitter,DelgadoforNY19,repdelgado,117,1,1/3/2021,1/3/2023,0,D,NA
+378,H,New York,Paul Tonko,twitter,RepPaulTonko,PaulTonko,117,1,1/3/2021,1/3/2023,0,D,NA
+379,H,New York,Elise Stefanik,twitter,EliseStefanik,RepStefanik,117,1,1/3/2021,1/3/2023,0,R,NA
+380,H,New York,Claudia Tenney,twitter,claudiatenney,RepTenney,117,0,2/11/2021,1/3/2023,0,R,https://www.uticaod.com/story/news/local/2021/02/11/ny-22-claudia-tenney-sworn-in-talks-legislative-priorities/6719789002/
+381,H,New York,Tom Reed,twitter,TomReedCongress,NA,117,1,1/3/2021,1/3/2023,0,R,NA
+382,H,New York,John Katko,twitter,RepJohnKatko,NA,117,1,1/3/2021,1/3/2023,0,R,NA
+383,H,New York,Joseph Morelle,twitter,RepJoeMorelle,votemorelle,117,1,1/3/2021,1/3/2023,0,D,NA
+384,H,New York,Brian Higgins,twitter,RepBrianHiggins,Higgins4WNY,117,1,1/3/2021,1/3/2023,0,D,NA
+385,H,New York,Chris Jacobs,twitter,JacobsNY27,RepJacobs,117,1,1/3/2021,1/3/2023,0,R,NA
+386,H,North Carolina,G K Butterfield,twitter,GKButterfield,NA,117,1,1/3/2021,1/3/2023,0,D,NA
+387,H,North Carolina,Deborah K Ross,twitter,DeborahRossNC,RepDeborahRoss,117,1,1/3/2021,1/3/2023,0,D,NA
+388,H,North Carolina,Greg Murphy,twitter,RepGregMurphy,GregMurphyMD,117,1,1/3/2021,1/3/2023,0,R,NA
+389,H,North Carolina,David Price,twitter,RepDavidEPrice,DPrice4Congress,117,1,1/3/2021,1/3/2023,0,D,NA
+390,H,North Carolina,Virginia Foxx,twitter,virginiafoxx,foxxforcongress,117,1,1/3/2021,1/3/2023,0,R,NA
+391,H,North Carolina,Kathy Manning,twitter,KathyManningNC,RepKManning,117,1,1/3/2021,1/3/2023,0,D,NA
+392,H,North Carolina,David Rouzer,twitter,RepDavidRouzer,DavidRouzer,117,1,1/3/2021,1/3/2023,0,R,NA
+393,H,North Carolina,Richard Hudson,twitter,RepRichHudson,RichHudson,117,1,1/3/2021,1/3/2023,0,R,NA
+394,H,North Carolina,Dan Bishop,twitter,jdanbishop,RepDanBishop,117,1,1/3/2021,1/3/2023,0,R,NA
+395,H,North Carolina,Patrick McHenry,twitter,PatrickMcHenry,McHenryCampaign,117,1,1/3/2021,1/3/2023,0,R,NA
+396,H,North Carolina,Madison Cawthorn,twitter,CawthornforNC,RepCawthorn,117,1,1/3/2021,1/3/2023,0,R,NA
+397,H,North Carolina,Alma Adams,twitter,RepAdams,AlmaforCongress,117,1,1/3/2021,1/3/2023,0,D,NA
+398,H,North Carolina,Ted Budd,twitter,RepTedBudd,BuddForCongress,117,1,1/3/2021,1/3/2023,0,R,NA
+399,H,North Dakota,Kelly Armstrong,twitter,RepArmstrongND,NA,117,1,1/3/2021,1/3/2023,0,R,NA
+400,H,Ohio,Steve Chabot,twitter,RepSteveChabot,SteveChabot,117,1,1/3/2021,1/3/2023,0,R,NA
+401,H,Ohio,Brad Wenstrup,twitter,RepBradWenstrup,bradwenstrup,117,1,1/3/2021,1/3/2023,0,R,NA
+402,H,Ohio,Joyce Beatty,twitter,RepBeatty,JoyceBeatty,117,1,1/3/2021,1/3/2023,0,D,NA
+403,H,Ohio,Jim Jordan,twitter,Jim_Jordan,NA,117,1,1/3/2021,1/3/2023,0,R,NA
+404,H,Ohio,Bob Latta,twitter,boblatta,latta4congress,117,1,1/3/2021,1/3/2023,0,R,NA
+405,H,Ohio,Bill Johnson,twitter,latta4congress,JohnsonLeads,117,1,1/3/2021,1/3/2023,0,R,NA
+406,H,Ohio,Bob Gibbs,twitter,RepBobGibbs,Bob_Gibbs,117,1,1/3/2021,1/3/2023,0,R,NA
+407,H,Ohio,Warren Davidson,twitter,WarrenDavidson,Vote_Davidson,117,1,1/3/2021,1/3/2023,0,R,NA
+408,H,Ohio,Marcy Kaptur,twitter,RepMarcyKaptur,Marcy_Kaptur,117,1,1/3/2021,1/3/2023,0,D,NA
+409,H,Ohio,Mike Turner,twitter,RepMikeTurner,MikeTurnerOH,117,1,1/3/2021,1/3/2023,0,R,NA
+410,H,Ohio,Marcia Fudge,twitter,RepMarciaFudge,mlfudge,117,0,1/3/2021,3/10/2021,1,D,https://thehill.com/homenews/house/542621-fudge-resigns-to-go-to-hud-after-voting-for-covid-19-relief
+411,H,Ohio,Troy Balderson,twitter,Troy_Balderson,RepBalderson,117,1,1/3/2021,1/3/2023,0,R,NA
+412,H,Ohio,Tim Ryan,twitter,RepTimRyan,TimRyan,117,1,1/3/2021,1/3/2023,0,D,NA
+413,H,Ohio,David Joyce,twitter,RepDaveJoyce,DaveJoyceOH14,117,1,1/3/2021,1/3/2023,0,R,NA
+414,H,Ohio,Steve Stivers,twitter,RepSteveStivers,stevestivers,117,0,1/3/2021,5/16/2021,1,R,https://thehill.com/homenews/house/548964-rep-steve-stivers-plans-to-retire
+415,H,Ohio,Anthony Gonzalez,twitter,RepAGonzalez,NA,117,1,1/3/2021,1/3/2023,0,R,NA
+416,H,Oklahoma,Kevin Hern,twitter,repkevinhern,krhern,117,1,1/3/2021,1/3/2023,0,R,NA
+417,H,Oklahoma,Markwayne Mullin,twitter,RepMullin,MarkwayneMullin,117,1,1/3/2021,1/3/2023,0,R,NA
+418,H,Oklahoma,Frank Lucas,twitter,RepFrankLucas,FrankDLucas,117,1,1/3/2021,1/3/2023,0,R,NA
+419,H,Oklahoma,Tom Cole,twitter,TomColeOK04,NA,117,1,1/3/2021,1/3/2023,0,R,NA
+420,H,Oklahoma,Stephanie Bice,twitter,stephaniebice,RepBice,117,1,1/3/2021,1/3/2023,0,R,NA
+421,H,Oregon,Suzanne Bonamici,twitter,RepBonamici,NA,117,1,1/3/2021,1/3/2023,0,D,NA
+422,H,Oregon,Cliff Bentz,twitter,RepBentz,CliffBentz,117,1,1/3/2021,1/3/2023,0,R,NA
+423,H,Oregon,Earl Blumenauer,twitter,repblumenauer,NA,117,1,1/3/2021,1/3/2023,0,D,NA
+424,H,Oregon,Peter DeFazio,twitter,RepPeterDeFazio,DeFazio4Oregon,117,1,1/3/2021,1/3/2023,0,D,NA
+425,H,Oregon,Kurt Schrader,twitter,RepSchrader,VoteSchrader,117,1,1/3/2021,1/3/2023,0,D,NA
+426,H,Pennsylvania,Brian Fitzpatrick,twitter,RepBrianFitz,BrianFitzUSA,117,1,1/3/2021,1/3/2023,0,R,NA
+427,H,Pennsylvania,Brendan Boyle,twitter,RepBrendanBoyle,CongBoyle,117,1,1/3/2021,1/3/2023,0,D,NA
+428,H,Pennsylvania,Dwight Evans,twitter,RepDwightEvans,DwightEvansPA,117,1,1/3/2021,1/3/2023,0,D,NA
+429,H,Pennsylvania,Madeleine Dean,twitter,RepDean,MadeleineDean,117,1,1/3/2021,1/3/2023,0,D,NA
+430,H,Pennsylvania,Mary Gay Scanlon,twitter,RepMGS,marygayscanlon,117,1,1/3/2021,1/3/2023,0,D,NA
+431,H,Pennsylvania,Chrissy Houlahan,twitter,RepHoulahan,HoulahanForPa,117,1,1/3/2021,1/3/2023,0,D,NA
+432,H,Pennsylvania,Susan Wild,twitter,RepSusanWild,wildforcongress,117,1,1/3/2021,1/3/2023,0,D,NA
+433,H,Pennsylvania,Matt Cartwright,twitter,RepCartwright,CartwrightPA,117,1,1/3/2021,1/3/2023,0,D,NA
+434,H,Pennsylvania,Dan Meuser,twitter,RepMeuser,Meuser4Congress,117,1,1/3/2021,1/3/2023,0,R,NA
+435,H,Pennsylvania,Scott Perry,twitter,RepScottPerry,Perry4Congress,117,1,1/3/2021,1/3/2023,0,R,NA
+436,H,Pennsylvania,Lloyd Smucker,twitter,RepSmucker,LloydSmuckerPA,117,1,1/3/2021,1/3/2023,0,R,NA
+437,H,Pennsylvania,Fred Keller,twitter,RepFredKeller,VoteFredKeller,117,1,1/3/2021,1/3/2023,0,R,NA
+438,H,Pennsylvania,John Joyce,twitter,RepJohnJoyce,JohnJoyceForPA,117,1,1/3/2021,1/3/2023,0,R,NA
+439,H,Pennsylvania,Guy Reschenthaler,twitter,GReschenthaler,reschenthaler,117,1,1/3/2021,1/3/2023,0,R,NA
+440,H,Pennsylvania,Glenn Thompson,twitter,CongressmanGT,GT_TeamGT,117,1,1/3/2021,1/3/2023,0,R,NA
+441,H,Pennsylvania,Mike Kelly,twitter,MikeKellyPA,MikeKellyforPA,117,1,1/3/2021,1/3/2023,0,R,NA
+442,H,Pennsylvania,Conor Lamb,twitter,ConorLambPA,RepConorLamb,117,1,1/3/2021,1/3/2023,0,D,NA
+443,H,Pennsylvania,Mike Doyle,twitter,USRepMikeDoyle,rep_doyle,117,1,1/3/2021,1/3/2023,0,D,NA
+444,H,Rhode Island,David Cicilline,twitter,davidcicilline,RepCicilline,117,1,1/3/2021,1/3/2023,0,D,NA
+445,H,Rhode Island,James Langevin,twitter,JimLangevin,LangevinForRI,117,1,1/3/2021,1/3/2023,0,D,NA
+446,H,South Carolina,Nancy Mace,twitter,NancyMace,RepNancyMace,117,1,1/3/2021,1/3/2023,0,R,NA
+447,H,South Carolina,Joe Wilson,twitter,JoeCunninghamSC,TeamJoeWilson,117,1,1/3/2021,1/3/2023,0,R,NA
+448,H,South Carolina,Jeff Duncan,twitter,RepJeffDuncan,Duncan4Congress,117,1,1/3/2021,1/3/2023,0,R,NA
+449,H,South Carolina,William Timmons,twitter,RepTimmons,VoteTimmons,117,1,1/3/2021,1/3/2023,0,R,NA
+450,H,South Carolina,Ralph Norman,twitter,RepRalphNorman,RalphNorman,117,1,1/3/2021,1/3/2023,0,R,NA
+451,H,South Carolina,Jim Clyburn,twitter,WhipClyburn,ClyburnSC06,117,1,1/3/2021,1/3/2023,0,D,NA
+452,H,South Carolina,Tom Rice,twitter,RepTomRice,TomRiceSC7,117,1,1/3/2021,1/3/2023,0,R,NA
+453,H,South Dakota,Dusty Johnson,twitter,RepDustyJohnson,DustyJohnson,117,1,1/3/2021,1/3/2023,0,R,NA
+454,H,Tennessee,Diana Harshbarger,twitter,DHarshbargerTN1,RepHarshbarger,117,1,1/3/2021,1/3/2023,0,R,NA
+455,H,Tennessee,Tim Burchett,twitter,timburchett,RepTimBurchett,117,1,1/3/2021,1/3/2023,0,R,NA
+456,H,Tennessee,Chuck Fleischmann,twitter,RepChuck,chuck4congress,117,1,1/3/2021,1/3/2023,0,R,NA
+457,H,Tennessee,Scott DesJarlais,twitter,DesJarlaisTN04,tndesjarlais,117,1,1/3/2021,1/3/2023,0,R,NA
+458,H,Tennessee,Jim Cooper,twitter,repjimcooper,CoopForCongress,117,1,1/3/2021,1/3/2023,0,D,NA
+459,H,Tennessee,John Rose,twitter,RepJohnRose,JohnRoseforTN,117,1,1/3/2021,1/3/2023,0,R,NA
+460,H,Tennessee,Mark E Green,twitter,RepMarkGreen,DrMarkGreen4TN,117,1,1/3/2021,1/3/2023,0,R,NA
+461,H,Tennessee,David Kustoff,twitter,RepDavidKustoff,DavidKustoff,117,1,1/3/2021,1/3/2023,0,R,NA
+462,H,Tennessee,Steve Cohen,twitter,RepCohen,ReElectCohen,117,1,1/3/2021,1/3/2023,0,D,NA
+463,H,Texas,Louie Gohmert,twitter,replouiegohmert,LouieGohmertTX1,117,1,1/3/2021,1/3/2023,0,R,NA
+464,H,Texas,Dan Crenshaw,twitter,DanCrenshawTX,RepDanCrenshaw,117,1,1/3/2021,1/3/2023,0,R,NA
+465,H,Texas,Van Taylor,twitter,VanTaylorTX,RepVanTaylor,117,1,1/3/2021,1/3/2023,0,R,NA
+466,H,Texas,Pat Fallon,twitter,FallonForTexas,RepPatFallon,117,1,1/3/2021,1/3/2023,0,R,NA
+467,H,Texas,Lance Gooden,twitter,Lancegooden,NA,117,1,1/3/2021,1/3/2023,0,R,NA
+468,H,Texas,Ron Wright,twitter,RepRonWright,NA,117,0,1/3/2021,2/7/2021,1,R,https://dfw.cbslocal.com/2021/02/08/texas-representative-ron-wright-dies-from-covid-19/
+469,H,Texas,Lizzie Fletcher,twitter,RepFletcher,Lizzie4Congress,117,1,1/3/2021,1/3/2023,0,D,NA
+470,H,Texas,Kevin Brady,twitter,RepKevinBrady,bradyfortexas,117,1,1/3/2021,1/3/2023,0,R,NA
+471,H,Texas,Al Green,twitter,RepAlGreen,RepAlGreenTX,117,1,1/3/2021,1/3/2023,0,D,NA
+472,H,Texas,Michael McCaul,twitter,RepMcCaul,McCaulforTexas,117,1,1/3/2021,1/3/2023,0,R,NA
+473,H,Texas,August Pfluger,twitter,RepPfluger,AugustPfluger,117,1,1/3/2021,1/3/2023,0,R,NA
+474,H,Texas,Kay Granger,twitter,RepKayGranger,GrangerCampaign,117,1,1/3/2021,1/3/2023,0,R,NA
+475,H,Texas,Ronny Jackson,twitter,RonnyJacksonTX,RepRonnyJackson,117,1,1/3/2021,1/3/2023,0,R,NA
+476,H,Texas,Randy Weber,twitter,TXRandy14,WeberforTexas,117,1,1/3/2021,1/3/2023,0,R,NA
+477,H,Texas,Vicente Gonzalez,twitter,RepGonzalez,VoteVicente,117,1,1/3/2021,1/3/2023,0,D,NA
+478,H,Texas,Veronica Escobar,twitter,RepEscobar,vgescobar,117,1,1/3/2021,1/3/2023,0,D,NA
+479,H,Texas,Pete Sessions,twitter,PeteSessions,SessionsTX17,117,1,1/3/2021,1/3/2023,0,R,NA
+480,H,Texas,Sheila Jackson Lee,twitter,JacksonLeeTX18,sjl4hrc,117,1,1/3/2021,1/3/2023,0,D,NA
+481,H,Texas,Jodey Arrington,twitter,RepArrington,JodeyArrington,117,1,1/3/2021,1/3/2023,0,R,NA
+482,H,Texas,Joaquin Castro,twitter,JoaquinCastrotx,Castro4Congress,117,1,1/3/2021,1/3/2023,0,D,NA
+483,H,Texas,Chip Roy,twitter,chiproytx,RepChipRoy,117,1,1/3/2021,1/3/2023,0,R,NA
+484,H,Texas,Troy Nehls,twitter,SheriffTNehls,TroyNehls,117,1,1/3/2021,1/3/2023,0,R,NA
+485,H,Texas,Tony Gonzales,twitter,TonyGonzales4TX,RepTonyGonzales,117,1,1/3/2021,1/3/2023,0,R,NA
+486,H,Texas,Beth Van Duyne,twitter,Bethvanduyne,RepBethVanDuyne,117,1,1/3/2021,1/3/2023,0,R,NA
+487,H,Texas,Roger Williams,twitter,RepRWilliams,RogerWilliamsTX,117,1,1/3/2021,1/3/2023,0,R,NA
+488,H,Texas,Michael C Burgess,twitter,michaelcburgess,NA,117,1,1/3/2021,1/3/2023,0,R,NA
+489,H,Texas,Michael Cloud,twitter,RepCloudTX,MichaelJCloud,117,1,1/3/2021,1/3/2023,0,R,NA
+490,H,Texas,Henry Cuellar,twitter,RepCuellar,CuellarCampaign,117,1,1/3/2021,1/3/2023,0,D,NA
+491,H,Texas,Sylvia Garcia,twitter,RepSylviaGarcia,LaCongresista,117,1,1/3/2021,1/3/2023,0,D,NA
+492,H,Texas,Eddie Bernice Johnson,twitter,RepEBJ,NA,117,1,1/3/2021,1/3/2023,0,D,NA
+493,H,Texas,John Carter,twitter,JudgeCarter,JudgeJohnCarter,117,1,1/3/2021,1/3/2023,0,R,NA
+494,H,Texas,Colin Allred,twitter,RepColinAllred,ColinAllredTX,117,1,1/3/2021,1/3/2023,0,D,NA
+495,H,Texas,Marc Veasey,twitter,RepVeasey,MarcVeasey,117,1,1/3/2021,1/3/2023,0,D,NA
+496,H,Texas,Filemon Vela Jr,twitter,RepFilemonVela,FilemonVela,117,1,1/3/2021,1/3/2023,0,D,NA
+497,H,Texas,Lloyd Doggett,twitter,RepLloydDoggett,LloydDoggettTX,117,1,1/3/2021,1/3/2023,0,D,NA
+498,H,Texas,Brian Babin,twitter,RepBrianBabin,Babin4Congress,117,1,1/3/2021,1/3/2023,0,R,NA
+499,H,Utah,Blake Moore,twitter,RepBlakeMoore,ElectBlakeMoore,117,1,1/3/2021,1/3/2023,0,R,NA
+500,H,Utah,Chris Stewart,twitter,RepChrisStewart,StewartforUtah,117,1,1/3/2021,1/3/2023,0,R,NA
+501,H,Utah,John Curtis,twitter,RepJohnCurtis,CurtisUT,117,1,1/3/2021,1/3/2023,0,R,NA
+502,H,Utah,Burgess Owens,twitter,BurgessOwens,RepBurgessOwens,117,1,1/3/2021,1/3/2023,0,R,NA
+503,H,Vermont,Peter Welch,twitter,PeterWelch,WelchForVT,117,1,1/3/2021,1/3/2023,0,D,NA
+504,H,Virginia,Rob Wittman,twitter,RobWittman,ReElectWittman,117,1,1/3/2021,1/3/2023,0,R,NA
+505,H,Virginia,Elaine Luria,twitter,ElaineLuriaVA,RepElaineLuria,117,1,1/3/2021,1/3/2023,0,D,NA
+506,H,Virginia,Bobby Scott,twitter,BobbyScott,BobbyScott4VA3,117,1,1/3/2021,1/3/2023,0,D,NA
+507,H,Virginia,Donald McEachin,twitter,RepMcEachin,Donald_McEachin,117,1,1/3/2021,1/3/2023,0,D,NA
+508,H,Virginia,Bob Good,twitter,RepBobGood,GoodForCongress,117,1,1/3/2021,1/3/2023,0,R,NA
+509,H,Virginia,Ben Cline,twitter,RepBenCline,NA,117,1,1/3/2021,1/3/2023,0,R,NA
+510,H,Virginia,Abigail Spanberger,twitter,SpanbergerVA07,RepSpanberger,117,1,1/3/2021,1/3/2023,0,D,NA
+511,H,Virginia,Don Beyer,twitter,RepDonBeyer,DonBeyerVA,117,1,1/3/2021,1/3/2023,0,D,NA
+512,H,Virginia,Morgan Griffith,twitter,RepMGriffith,MorganGriffith,117,1,1/3/2021,1/3/2023,0,R,NA
+513,H,Virginia,Jennifer Wexton,twitter,RepWexton,JenniferWexton,117,1,1/3/2021,1/3/2023,0,D,NA
+514,H,Virginia,Gerry Connolly,twitter,GerryConnolly,ElectConnolly,117,1,1/3/2021,1/3/2023,0,D,NA
+515,H,Washington,Suzan DelBene,twitter,RepDelBene,SuzanDelBene,117,1,1/3/2021,1/3/2023,0,D,NA
+516,H,Washington,Rick Larsen,twitter,RepRickLarsen,larsenrick,117,1,1/3/2021,1/3/2023,0,D,NA
+517,H,Washington,Jaime Herrera Beutler,twitter,HerreraBeutler,JaimeForUSRep,117,1,1/3/2021,1/3/2023,0,R,NA
+518,H,Washington,Dan Newhouse,twitter,RepNewhouse,Newhouse4Rep,117,1,1/3/2021,1/3/2023,0,R,NA
+519,H,Washington,Cathy McMorris Rodgers,twitter,cathymcmorris,TeamCMR,117,1,1/3/2021,1/3/2023,0,R,NA
+520,H,Washington,Derek Kilmer,twitter,RepDerekKilmer,DerekKilmer,117,1,1/3/2021,1/3/2023,0,D,NA
+521,H,Washington,Pramila Jayapal,twitter,RepJayapal,PramilaJayapal,117,1,1/3/2021,1/3/2023,0,D,NA
+522,H,Washington,Kim Schrier,twitter,RepKimSchrier,DrKimSchrier,117,1,1/3/2021,1/3/2023,0,D,NA
+523,H,Washington,Adam Smith,twitter,RepAdamSmith,electadamsmith,117,1,1/3/2021,1/3/2023,0,D,NA
+524,H,Washington,Marilyn Strickland,twitter,RepStricklandWA,StricklandforWA,117,1,1/3/2021,1/3/2023,0,D,NA
+525,H,West Virginia,David McKinley,twitter,RepMcKinley,McKinleyforWV,117,1,1/3/2021,1/3/2023,0,R,NA
+526,H,West Virginia,Alex Mooney,twitter,RepAlexMooney,MooneyforWV,117,1,1/3/2021,1/3/2023,0,R,NA
+527,H,West Virginia,Carol Miller,twitter,RepCarolMiller,CarolMillerWV,117,1,1/3/2021,1/3/2023,0,R,NA
+528,H,Wisconsin,Bryan Steil,twitter,RepBryanSteil,NA,117,1,1/3/2021,1/3/2023,0,R,NA
+529,H,Wisconsin,Mark Pocan,twitter,repmarkpocan,MarkPocan,117,1,1/3/2021,1/3/2023,0,D,NA
+530,H,Wisconsin,Ron Kind,twitter,RepRonKind,KindforCongress,117,1,1/3/2021,1/3/2023,0,D,NA
+531,H,Wisconsin,Gwen Moore,twitter,RepGwenMoore,Gwen4Congress,117,1,1/3/2021,1/3/2023,0,D,NA
+532,H,Wisconsin,Scott Fitzgerald,twitter,RepFitzgerald,FitzgeraldForWI,117,1,1/3/2021,1/3/2023,0,R,NA
+533,H,Wisconsin,Glenn Grothman,twitter,RepGrothman,GrothmanforWI,117,1,1/3/2021,1/3/2023,0,R,NA
+534,H,Wisconsin,Tom Tiffany,twitter,TomTiffanyWI,RepTiffany,117,1,1/3/2021,1/3/2023,0,R,NA
+535,H,Wisconsin,Mike Gallagher,twitter,RepGallagher,MikeforWI,117,1,1/3/2021,1/3/2023,0,R,NA
+536,H,Wyoming,Liz Cheney,twitter,Liz_Cheney,RepLizCheney,117,1,1/3/2021,1/3/2023,0,R,NA
